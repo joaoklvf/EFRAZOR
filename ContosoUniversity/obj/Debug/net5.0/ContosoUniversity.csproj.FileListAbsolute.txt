@@ -304,3 +304,8 @@ C:\Users\Joao\Downloads\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ref
 C:\Users\Joao\Downloads\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.pdb
 C:\Users\Joao\Downloads\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.genruntimeconfig.cache
 C:\Users\Joao\Downloads\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\ContosoUniversity.csproj.AssemblyReference.cache
+C:\Users\Joao\Downloads\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Courses\Create.cshtml.g.cs
+C:\Users\Joao\Downloads\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Courses\Delete.cshtml.g.cs
+C:\Users\Joao\Downloads\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Courses\Details.cshtml.g.cs
+C:\Users\Joao\Downloads\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Courses\Edit.cshtml.g.cs
+C:\Users\Joao\Downloads\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Pages\Courses\Index.cshtml.g.cs
